@@ -1,0 +1,50 @@
+/* pc: #282a39 */
+/* sc: #333647 */
+/* or: #f87c58 */
+html {
+  scroll-behavior: smooth;
+}
+
+a{
+  color: white !important;
+  text-decoration: none !important
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+
+.name{
+  font-family: 'Allura', cursive; 
+  font-size: 2rem !important;
+}
+
+.HireMeBtn{
+  background-color: #00cdcb;
+  padding: 6px 16px !important;
+  border-radius: 5px;
+  color: white;
+}
+
+.progress-bar{
+  background-color: #2f8382  !important;
+}
+
+.progress{  
+  width: 100% !important;
+}
+
+@media (max-width:568px) {
+  .progress{
+    margin-top: 10px;
+  }
+}
+
+.bg-primary{
+    background-color: #00cdcb !important;
+}
+
+
+@media (max-width:568px) {
+  .mt-sm-3{
+    margin-top: 3rem;
+  }
+}
