@@ -1,9 +1,5 @@
 <h1 align='center'>My Portfolio</h1>
 
-A web application that helps you to get min temperature, max temperature, how would it feels like, humidity, and wind.
-
-![GitHub last commit](https://img.shields.io/github/last-commit/MoShouman/My-portfolio)
-
 ## Built with
 
 reactJS, and reactbootstrap.
