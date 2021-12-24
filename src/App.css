@@ -48,3 +48,19 @@ a{
     margin-top: 3rem;
   }
 }
+
+@media (max-width:769px){
+  .pt-sm{
+    padding-top:30px
+  }
+  .pt-sm-x{
+    padding-top:130px
+  }
+  .font-sm-1{
+    font-size: 3rem !important;
+  }
+  .font-sm-2{
+    font-size: 1.5rem !important;
+  }
+
+}

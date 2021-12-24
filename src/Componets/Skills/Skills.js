@@ -5,7 +5,7 @@ import Header from '../Const/Header'
 function Skills() {
 
     return ( 
-        <div id='skills' className='mt-sm-3'>
+        <div id='skills' className='mt-sm-3 pt-sm-x'>
             <Container className="d-flex align-items-center justify-content-center"  style={{height:'100vh'}}>
                 <Col className='align-items-start' style={{width:'100%'}}>
                     <Header title={'My Skills'}/>
